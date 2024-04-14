@@ -1,0 +1,10 @@
+.background-color {
+    background-color: #F0EBE3;
+}
+
+hr {
+    border: dotted 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
